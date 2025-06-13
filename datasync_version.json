@@ -1,0 +1,36 @@
+{
+  "FixedFileInfo": {
+    "FileVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "ProductVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "FileType":    "01",
+    "FileSubType": "00"
+  },
+
+  "StringFileInfo": {
+    "CompanyName":      "dataz.co.uk",
+    "FileDescription":  "DataSync File Transfer App",
+    "FileVersion":      "1.0.0.0",
+    "ProductName":      "DataSync File Transfer App",
+    "ProductVersion":   "1.0",
+    "OriginalFilename": "mill7_extractor.exe",
+    "LegalCopyright":   "© 2025 Dataz",
+    "Comments":         "Copies data from local path to smb or ftp configured by conf file"
+  },
+
+  "VarFileInfo": {
+    "Translation": {
+      "LangID": "0409",
+      "Charset": "04B0"
+    }
+  }
+}
